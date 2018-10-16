@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="805059f5-847a-4c41-98fe-440f903eda5f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/controllers/LoginAsset.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +28,7 @@
         </entry>
       </file>
       <file leaf-file-name="LoginAsset.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/LoginAsset.php">
+        <entry file="file://$PROJECT_DIR$/controllers/LoginAsset.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
@@ -259,6 +260,9 @@
     <property name="node.js.selected.package.standard" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\basic\controllers" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\basic\views\layouts" />
       <recent name="C:\xampp\htdocs\basic\assets" />
@@ -300,7 +304,7 @@
       <workItem from="1539054331432" duration="60000" />
       <workItem from="1539330106443" duration="1466000" />
       <workItem from="1539593184391" duration="1446000" />
-      <workItem from="1539650122809" duration="1821000" />
+      <workItem from="1539650122809" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="Testing">
       <created>1539331382396</created>
@@ -351,11 +355,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539651740414</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit">
+      <created>1539651978200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1539651978200</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23322000" />
+    <option name="totallyTimeSpent" value="23614000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -825,7 +836,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/LoginAsset.php">
+    <entry file="file://$PROJECT_DIR$/controllers/LoginAsset.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="33" lean-forward="false" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
