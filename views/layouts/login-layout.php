@@ -3,11 +3,11 @@
 /* @var $this \yii\web\View */
 /* @var $content string */
 
-use app\assets\LoginAsset;
+use app\assets\LoginAsset1;
 use yii\helpers\Html;
 
-LoginAsset::register($this);
-$asset = LoginAsset::register($this);
+LoginAsset1::register($this);
+$asset = LoginAsset1::register($this);
 $baseUrl = $asset->baseUrl;
 
 ?>
